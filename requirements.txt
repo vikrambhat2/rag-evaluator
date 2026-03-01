@@ -1,0 +1,7 @@
+langchain-ollama
+langchain-community
+langchain-text-splitters
+chromadb
+pydantic
+pandas
+rich
